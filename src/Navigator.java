@@ -1,5 +1,6 @@
 
 import ir.porteqali.javatutorial.E018_Keywords;
+import ir.porteqali.javatutorial.E019_CastingVariables;
 
 /**
  * This class navigate us to the target classes
@@ -11,7 +12,8 @@ public class Navigator {
         System.out.println("Navigator");
 
         // Creating an instance of E018_NamingRules class and call start() :
-        E018_Keywords keywords=new E018_Keywords();
-        keywords.start();
+        E019_CastingVariables castingVariables=new E019_CastingVariables();
+        castingVariables.start();
+
     }
 }
