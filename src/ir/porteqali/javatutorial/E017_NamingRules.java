@@ -10,7 +10,7 @@ public class E017_NamingRules {
         Naming rules for variables:
         1 : The variable name must specify its functionality
         2 : We can't use 0 to first of its name
-        3 : We should write by camleCase or us underlines ( _ )
+        3 : We should write by camleCase or use underlines ( _ )
          */
 
         int myAge = 18 ;

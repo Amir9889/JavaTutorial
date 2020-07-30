@@ -1,5 +1,5 @@
-import ir.porteqali.javatutorial.E016_Variables;
-import ir.porteqali.javatutorial.E017_NamingRules;
+
+import ir.porteqali.javatutorial.E018_Keywords;
 
 /**
  * This class navigate us to the target classes
@@ -10,8 +10,8 @@ public class Navigator {
         // showing "Navigator" to know we are using Navigator class to find our other classes
         System.out.println("Navigator");
 
-        // Creating an instance of E017_NamingRules class and call start() :
-        E017_NamingRules rules=new E017_NamingRules();
-        rules.start();
+        // Creating an instance of E018_NamingRules class and call start() :
+        E018_Keywords keywords=new E018_Keywords();
+        keywords.start();
     }
 }
