@@ -1,7 +1,5 @@
 
-import ir.porteqali.javatutorial.E018_Keywords;
-import ir.porteqali.javatutorial.E019_CastingVariables;
-import ir.porteqali.javatutorial.E020_TryCatchBlock;
+import ir.porteqali.javatutorial.*;
 
 /**
  * This class navigate us to the target classes
@@ -12,9 +10,9 @@ public class Navigator {
         // showing "Navigator" to know we are using Navigator class to find our other classes
         System.out.println("Navigator");
 
-        // Creating an instance of E020_TryCatchBlock class and call start() :
-        E020_TryCatchBlock tryCatchBlock=new E020_TryCatchBlock();
-        tryCatchBlock.start();
+        // Creating an instance of E021_ArithmeticOperators class and call start() :
+        E021_ArithmeticOperators arithmeticOperators=new E021_ArithmeticOperators();
+        arithmeticOperators.start();
 
 
     }
