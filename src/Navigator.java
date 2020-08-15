@@ -11,9 +11,9 @@ public class Navigator {
         System.out.println("Navigator");
 
         // Creating an instance of E022_RelationalOperators class and call start() :
-        E022_RelationalOperators relationalOperators=
-                new E022_RelationalOperators();
-        relationalOperators.start();
+        E023_LogicalOperators logicalOperators=
+                new E023_LogicalOperators();
+        logicalOperators.start();
 
 
     }
