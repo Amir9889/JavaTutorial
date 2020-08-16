@@ -10,10 +10,8 @@ public class Navigator {
         // showing "Navigator" to know we are using Navigator class to find our other classes
         System.out.println("Navigator");
 
-        // Creating an instance of E022_RelationalOperators class and call start() :
-        E023_LogicalOperators logicalOperators=
-                new E023_LogicalOperators();
-        logicalOperators.start();
+        // Creating an instance of E024_AssignmentOperators class and call start() :
+        (new E024_AssignmentOperators()).start();
 
 
     }
