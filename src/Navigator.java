@@ -1,5 +1,5 @@
 
-import ir.porteqali.javatutorial.P06_Operators.E025_MoreOperators;
+import ir.porteqali.javatutorial.P07_Methods.E026_Method;
 
 /**
  * This class navigate us to the target classes
@@ -11,7 +11,7 @@ public class Navigator {
         System.out.println("Navigator");
 
         // Creating an instance of E025_MoreOperators class and call start() :
-        (new E025_MoreOperators()).start();
+        (new E026_Method()).start();
 
 
     }
