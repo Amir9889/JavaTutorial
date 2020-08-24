@@ -9,4 +9,8 @@ public class E030_Instance_Example {
     public void hello(String name){
         System.out.println("Hello "+name);
     }
+
+    public static String myName(String myName){
+        return "My name is: "+myName;
+    }
 }

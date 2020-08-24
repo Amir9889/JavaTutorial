@@ -1,5 +1,4 @@
-import ir.porteqali.javatutorial.P08_Classes.E029_Classes;
-import ir.porteqali.javatutorial.P08_Classes.E030_Instance;
+import ir.porteqali.javatutorial.P08_Classes.E031_StaticUsage;
 
 /**
  * This class navigate us to the target classes
@@ -11,7 +10,7 @@ public class Navigator {
         System.out.println("Navigator");
 
         // Creating an instance of E030_Instance class and call start() :
-        (new E030_Instance()).start();
+        (new E031_StaticUsage()).start();
 
 
     }
