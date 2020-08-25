@@ -1,4 +1,4 @@
-import ir.porteqali.javatutorial.P08_Classes.E032_Constructors;
+import ir.porteqali.javatutorial.P08_Classes.E033_Inheritance;
 
 /**
  * This class navigate us to the target classes
@@ -9,11 +9,8 @@ public class Navigator {
         // showing "Navigator" to know we are using Navigator class to find our other classes
         System.out.println("Navigator");
 
-        // Creating an instance of E032_Constructors class and call start() :
-        new E032_Constructors();
-        new E032_Constructors("Amir");
-        new E032_Constructors("Amir", 18);
-
+        // Creating an instance of E033_Inheritance class and call its Constructor() :
+        new E033_Inheritance();
 
     }
 }
