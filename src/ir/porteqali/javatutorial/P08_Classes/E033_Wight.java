@@ -1,9 +1,9 @@
 package ir.porteqali.javatutorial.P08_Classes;
 
-public class E033_wight {
+public class E033_Wight {
 
-    public int height;
-    public int weight;
+    int Height;
+    int Weight;
 
     public void eat(){
         System.out.println("I'm eating something.");

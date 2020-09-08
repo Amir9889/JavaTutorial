@@ -6,7 +6,7 @@ public class E033_Inheritance {
 
         System.out.println(getClass().getSimpleName());
 
-        E033_Bat bat=new E033_Bat();
+        E033_Bat bat=new E033_Bat(50,6);
         bat.bodyApparatusComplexity();
     }
 }
