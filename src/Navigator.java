@@ -1,5 +1,4 @@
-import ir.porteqali.javatutorial.P08_Classes.E033_Inheritance;
-import ir.porteqali.javatutorial.P08_Classes.E034_InnerClasses;
+import ir.porteqali.javatutorial.P09_FilesAndThreads.E035_Threads;
 
 /**
  * This class navigate us to the target classes
@@ -10,8 +9,8 @@ public class Navigator {
         // showing "Navigator" to know we are using Navigator class to find our other classes
         System.out.println("Navigator");
 
-        // Creating an instance of E034_InnerClasses class and call its Constructor() :
-        new E034_InnerClasses();
+        // Creating an instance of E035_Threads class and call its Constructor() :
+        new E035_Threads();
 
     }
 }
