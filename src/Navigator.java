@@ -1,4 +1,5 @@
 import ir.porteqali.javatutorial.P09_FilesAndThreads.E036_Files;
+import ir.porteqali.javatutorial.P09_FilesAndThreads.E037_WriteFiles;
 
 /**
  * This class navigate us to the target classes
@@ -9,8 +10,8 @@ public class Navigator {
         // showing "Navigator" to know we are using Navigator class to find our other classes
         System.out.println("Navigator");
 
-        // Creating an instance of E036_Files class and call its Constructor() :
-        new E036_Files();
+        // Creating an instance of E037_WriteFiles class and call its Constructor() :
+        new E037_WriteFiles();
 
     }
 }
