@@ -5,6 +5,11 @@ public class E033_Wight {
     int Height;
     int Weight;
 
+    public E033_Wight(int height, int weight){
+        Height=height;
+        Weight=weight;
+    }
+
     public void eat(){
         System.out.println("I'm eating something.");
     }
@@ -21,11 +26,15 @@ public class E033_Wight {
         System.out.println("I can reproduce.");
     }
 
-    public int getHeight(int height){
-        return height;
+    public int getHeight(){
+        return Height;
     }
 
-    public int getWeight(int weight){
-        return weight;
+    public int getWeight(){
+        return Weight;
+    }
+
+    public void walk(){
+        System.out.println("I can walking.");
     }
 }
