@@ -1,4 +1,4 @@
-import ir.porteqali.javatutorial.P10_OOP.E041_Overload;
+import ir.porteqali.javatutorial.P10_OOP.E042_This;
 
 /**
  * This class navigate us to the target classes
@@ -9,8 +9,7 @@ public class Navigator {
         // showing "Navigator" to know we are using Navigator class to find our other classes
         System.out.println("Navigator");
 
-        // Creating an instance of E041_Overload class and call its Constructor() :
-        new E041_Overload();
-
+        // Creating an instance of E042_This class and call its Constructor() :
+        new E042_This();
     }
 }
